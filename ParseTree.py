@@ -1,7 +1,7 @@
 from gedcom.element.individual import IndividualElement
 from gedcom.parser import Parser
 
-file_path = "tesst.ged"
+file_path = "MyTree.ged"
 
 file_record=open("fact.pl",'w',encoding='utf-8')
 
